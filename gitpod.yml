@@ -2,8 +2,8 @@
 tasks:
   - before: >
       echo "before"
-  - init: >
+    init: >
       echo "init"
-  - command: >
+    command: >
       echo "command"
     name: Gitpod - Snapshot bug
